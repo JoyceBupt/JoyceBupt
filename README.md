@@ -1,4 +1,6 @@
-Profile owner is taking a nap, bio coming later... maybe.
+😴 Profile owner is taking a nap...
+📄 Bio coming later... maybe.
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyceBupt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceBupt)
