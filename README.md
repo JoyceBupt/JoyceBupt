@@ -2,7 +2,8 @@
 📄 Bio coming later... maybe.
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyceBupt)
+[![JoyceBupt's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyceBupt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceBupt)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyceBupt)
 -->
